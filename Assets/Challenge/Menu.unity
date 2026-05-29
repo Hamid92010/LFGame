@@ -344,7 +344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ageRange: 2
-  cinematicSceneName: CockpitScene
+  cinematicSceneName: Spaceship
 --- !u!1 &407785130
 GameObject:
   m_ObjectHideFlags: 0
@@ -1441,7 +1441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ageRange: 3
-  cinematicSceneName: CockpitScene
+  cinematicSceneName: Spaceship
 --- !u!1 &1518261788
 GameObject:
   m_ObjectHideFlags: 0
